@@ -8,7 +8,9 @@ wget -N --no-check-certificate https://5th.pp.ua/https://raw.githubusercontent.c
 
 另一个hy2脚本
 
-```
-curl -sSL https://5th.pp.ua/https://raw.githubusercontent.com/seagullz4/hysteria2/refs/heads/main/install.sh -o install.sh && chmod +x install.sh && bash install.sh
 
+
+
+```
+curl -sSL https://5th.pp.ua/https://raw.githubusercontent.com/lswmxl/hy2-in/refs/heads/main/install.sh -o install.sh && chmod +x install.sh && bash install.sh
 ```
